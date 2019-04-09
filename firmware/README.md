@@ -27,4 +27,4 @@ remove and plug in the device and it should appear as 4 virtual serial ports
 
 ## ros_control drivers
 
-can be found here:
+can be found here: https://github.com/bit-bots/bitbots_lowlevel
